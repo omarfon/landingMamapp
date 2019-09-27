@@ -1,0 +1,18 @@
+.cabecera{
+    background-color: #fbc1bc!important;
+    height: 600px;
+}
+.cuerpo{
+    min-height:450px!important;
+}
+.cuerpoTwo{
+    background-color: #42b883;
+}
+.cuerpoFour{
+    background-color:#fec771;
+}
+footer{
+    height: 150px;
+    background-color:#f7f7f7;
+}
+
